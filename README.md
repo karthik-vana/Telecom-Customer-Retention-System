@@ -8,7 +8,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![EDA](https://img.shields.io/badge/ML%20Pipeline-Step--1-success?style=flat-square)
 
-**A clean, insight-driven Exploratory Data Analysis to understand why telecom customers churn — before modeling begins.**
+**A clean, insight-driven Exploratory Data Analysis to understand why telecom customers churn — before modelling begins.**
 
 </div>
 
@@ -21,7 +21,7 @@ In Machine Learning, **strong EDA decides model success**.
 > **Objective:**  
 > Perform **Step-1 of the ML pipeline — Visual Data Understanding** to uncover churn patterns, risk segments, and business drivers using **only data visualization**.
 
-# This project was completed as part of my **Skill Union Data Science Internship**.
+# This project was started as part of my **Skill Union Data Science Internship**.
 
 ---
 
